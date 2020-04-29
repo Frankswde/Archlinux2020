@@ -8,7 +8,7 @@
 |update|  2020/4/29 | + 更新到GIT上|
 
 ## ※ 安裝流程圖
-```flowchart
+```flow
 st=>start: 按照需求設置
 op1=>operation: Check internet :>#Check-internet
 op2=>operation: Verify the boot mode 
