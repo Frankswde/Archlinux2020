@@ -14,8 +14,7 @@
 ## ※ 簡易使用法
 - Download script
 ```
-wget raw.githubusercontent.com/xylzq/arch/master/setup.sh
-
+wget raw.githubusercontent.com/Frankswde/Archlinux2020/master/Arch_install.sh
 ```
 - Usage
   - 要先給 script執行權限
